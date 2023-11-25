@@ -1,0 +1,6 @@
+evadb
+boto3
+awscli
+flask
+flask_restful
+flask_cors
